@@ -1,0 +1,17 @@
+{
+  "name": "montxn-app",
+  "version": "1.0.0",
+  "description": "App that monitors your transactions in ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajat Petwal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "request-promise": "^4.2.6",
+    "web3": "^1.6.1"
+  }
+}
